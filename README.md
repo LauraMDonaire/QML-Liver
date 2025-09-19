@@ -9,7 +9,7 @@ This repository contains the resources used and generated during the development
   - `model.h5`: Trained model.  
   - `weights.h5`: Model weights.  
 - `data/`  
-  - `preprocessed_dataset.csv`: Dataset already preprocessed and ready to use.
+  - `preprocessed_dataset.npz`: Dataset already preprocessed and ready to use.
   - `Indian Liver Patient Dataset.csv`: Original dataset. 
 - `results/`  
   - `roc_curve.pdf`: ROC curve of the model.
